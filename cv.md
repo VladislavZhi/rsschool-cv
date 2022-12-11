@@ -22,4 +22,6 @@ alert( result );
 Adobe Photoshop 
 ## Experience
 * no experience in programming
+## Education
+* University: Belarusian State University, Specialty "psychologist-psychology teacher"
 
