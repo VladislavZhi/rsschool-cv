@@ -24,4 +24,7 @@ Adobe Photoshop
 * no experience in programming
 ## Education
 * University: Belarusian State University, Specialty "psychologist-psychology teacher"
+## Language
+* English B2
+* Russian native
 
